@@ -6,6 +6,6 @@ IITM BS Data Science student | Building full-stack + AI projects
 - **Smartmap** — AI-powered roadmap & study tracker (React/JS, Supabase, Gemini)
 - **FRIDAY** — Local AI voice assistant (Ollama, faster-whisper, Piper TTS)
 
-🐍 Python | React | Node | SQL | JS
+🐍 Python | FastAPI | React | Node | SQL | JS
 
 📫 Reach me: navenduchaturvedi0718@gmail.com
