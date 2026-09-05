@@ -3,7 +3,7 @@
 IITM BS Data Science student | Building full-stack + AI projects
 
 🔭 Currently building:
-- **Smartmap** — AI-powered roadmap & study tracker (React/JS, Supabase, Gemini) — [live demo](smartmap-plum.versel.app)
+- **Smartmap** — AI-powered roadmap & study tracker (React/JS, Supabase, Gemini) — [live demo](smartmap-plum.vercel.app)
 - **FRIDAY** — Local AI voice assistant (Ollama, faster-whisper, Piper TTS)
 
 🐍 Python | React | Node | SQL | JS
